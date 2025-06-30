@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @iluha69
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m skull💀
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning c++
+- 📫 tg: @iluhaxtilted
+- 📫 ds: scamerzak1
+
 
 <!---
 iluha69/iluha69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
