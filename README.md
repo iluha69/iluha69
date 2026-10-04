@@ -1,5 +1,5 @@
 - 👋 Hi, I’m skull💀
-- 👀 I’m interested in programming
+- 👀 I’m interested in DevOps, programming, ai
 - 🌱 I’m currently learning c++
 - 📫 tg: @iluhaxtilted
 - 📫 ds: scamerzak1
